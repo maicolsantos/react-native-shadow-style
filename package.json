@@ -1,0 +1,22 @@
+{
+  "name": "react-native-shadow-style",
+  "version": "1.0.0",
+  "description": "Use this function to create shadows for Android and iOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicolsantos/react-native-shadow-style.git"
+  },
+  "keywords": [
+    "react-native",
+    "shadow",
+    "elevation",
+    "style"
+  ],
+  "author": "Maicol Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maicolsantos/react-native-shadow-style/issues"
+  },
+  "homepage": "https://github.com/maicolsantos/react-native-shadow-style#readme"
+}
