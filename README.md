@@ -26,8 +26,9 @@ const App = () => (
 import styled from 'styled-components/native'
 import shadowStyle from 'react-native-shadow-style'
 
-export const Container = styled.View`
+export const Container = styled.View.attrs({
+  ...shadowGenerator(5),
+})`
   // Others styles
-  ${...shadowStyle(5)}
 `
 ```
